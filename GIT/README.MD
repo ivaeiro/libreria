@@ -39,7 +39,7 @@
 </table>
 
 ## Lenguajes
-
+> En fase de aprendizaje
 <table>
   <tr>
     </td>
