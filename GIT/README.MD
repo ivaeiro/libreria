@@ -18,8 +18,8 @@
 <table>
   <tr>
     <td align="center" width="100">
-            <a href="https://es.react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+            <a href="#">
+        <img src="icons/Ubuntu-Dark.svg" alt="ReactJS" />
       </a>
     </td>
   </tr>
