@@ -33,19 +33,23 @@
   </a>
 <br>Git
     </td>
-    </td>
     <td align="center" width="100">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 <br>Python
     </td>
-    </td>
     <td align="center" width="100">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell" />
   </a>
 <br>Powershell
+    </td>
+    <td align="center" width="100">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql" />
+  </a>
+<br>SQL
     </td>
   </tr>
 </table>
