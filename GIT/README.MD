@@ -14,3 +14,13 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
   
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+            <a href="https://es.react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+      </a>
+    </td>
+  </tr>
+</table>
