@@ -1,6 +1,4 @@
 # Iván Peiró
----
-### Main Stack
 
 ### Sistemas operativos
 
