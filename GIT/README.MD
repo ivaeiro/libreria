@@ -18,9 +18,9 @@
 <table>
   <tr>
     <td align="center" width="100">
-            <a href="#">
-        <img src="icons/Ubuntu-Dark.svg" alt="ReactJS" />
-      </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
     </td>
   </tr>
 </table>
