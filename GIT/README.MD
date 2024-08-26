@@ -43,9 +43,9 @@
     </td>
     <td align="center" width="100">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=powershell" />
   </a>
-<br>Git
+<br>Powershell
     </td>
   </tr>
 </table>
