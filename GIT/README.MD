@@ -59,3 +59,29 @@
     </td>
   </tr>
 </table>
+
+## Lenguajes
+
+<table>
+  <tr>
+    </td>
+    <td align="center" width="100">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+<br>Python
+    </td>
+    <td align="center" width="100">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+<br>PHP
+    </td>
+    <td align="center" width="100">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell" />
+  </a>
+<br>Powershell
+    </td>
+  </tr>
+</table>
