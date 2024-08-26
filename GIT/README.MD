@@ -1,3 +1,5 @@
+
+
 ## Sistemas operativos
 
 <table>
@@ -17,7 +19,7 @@
   </tr>
 </table>
 
-## Herramientas
+## 💻 Herramientas
 
 <table>
   <tr>
