@@ -36,9 +36,9 @@
     </td>
     <td align="center" width="100">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
-<br>Git
+<br>Python
     </td>
     </td>
     <td align="center" width="100">
