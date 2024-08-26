@@ -83,3 +83,10 @@
     </td>
   </tr>
 </table>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaeiro&show_icons=true&locale=es" alt="ivaeiro" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivaeiro&" alt="ivaeiro" /></p>
