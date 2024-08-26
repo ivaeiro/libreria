@@ -1,7 +1,7 @@
 # Iván Peiró
 ## Sysadmin
 
-## Sistemas operativos
+### Sistemas operativos
 
 <table>
   <tr>
