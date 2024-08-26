@@ -1,10 +1,4 @@
-<p aling="center">
-  <a href="https://github.com/ivaeiro">
-  
-  </a>
-</p>
-
-# Iván Peiró 👋
+# Iván Peiró
 
 ## Sistemas operativos
 
