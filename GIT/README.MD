@@ -47,9 +47,9 @@
     </td>
     <td align="center" width="100">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-<br>SQL
+<br>MYSQL
     </td>
   </tr>
 </table>
