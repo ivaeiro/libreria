@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="100">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ubuntu" />
   </a>
     </td>
   </tr>
